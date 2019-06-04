@@ -9,3 +9,4 @@ C:\Users\Irina\AdamFreemanASPDOTNet\SportsStore\SportsStore\obj\Debug\netcoreapp
 C:\Users\Irina\AdamFreemanASPDOTNet\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.pdb
 C:\Users\Irina\AdamFreemanASPDOTNet\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.dll
 C:\Users\Irina\AdamFreemanASPDOTNet\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.pdb
+C:\Users\Irina\AdamFreemanASPDOTNet\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs

@@ -1,0 +1,11 @@
+C:\Users\Irina\AdamFreemanASPDOTNet\SportsStore\SportsStore\bin\Release\netcoreapp2.0\SportsStore.deps.json
+C:\Users\Irina\AdamFreemanASPDOTNet\SportsStore\SportsStore\bin\Release\netcoreapp2.0\SportsStore.runtimeconfig.json
+C:\Users\Irina\AdamFreemanASPDOTNet\SportsStore\SportsStore\bin\Release\netcoreapp2.0\SportsStore.runtimeconfig.dev.json
+C:\Users\Irina\AdamFreemanASPDOTNet\SportsStore\SportsStore\bin\Release\netcoreapp2.0\SportsStore.dll
+C:\Users\Irina\AdamFreemanASPDOTNet\SportsStore\SportsStore\bin\Release\netcoreapp2.0\SportsStore.pdb
+C:\Users\Irina\AdamFreemanASPDOTNet\SportsStore\SportsStore\obj\Release\netcoreapp2.0\SportsStore.csprojAssemblyReference.cache
+C:\Users\Irina\AdamFreemanASPDOTNet\SportsStore\SportsStore\obj\Release\netcoreapp2.0\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\Irina\AdamFreemanASPDOTNet\SportsStore\SportsStore\obj\Release\netcoreapp2.0\SportsStore.AssemblyInfoInputs.cache
+C:\Users\Irina\AdamFreemanASPDOTNet\SportsStore\SportsStore\obj\Release\netcoreapp2.0\SportsStore.AssemblyInfo.cs
+C:\Users\Irina\AdamFreemanASPDOTNet\SportsStore\SportsStore\obj\Release\netcoreapp2.0\SportsStore.dll
+C:\Users\Irina\AdamFreemanASPDOTNet\SportsStore\SportsStore\obj\Release\netcoreapp2.0\SportsStore.pdb
